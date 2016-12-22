@@ -1,1 +1,0 @@
-javascript:(function(){console.log(%22Hello%20World%22)})();

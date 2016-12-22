@@ -6,7 +6,7 @@ module.exports = function (grunt) {
             umbracoBoorkmarklet: {
                 // Target-specific file lists and/or options go here. 
                 files: {
-                    'dist/bookmarklet.js': ['src/bookmarklet.js']
+                    'dist/bookmarklet-dist.js': ['src/bookmarklet-src.js']
                 }
             },
         },
